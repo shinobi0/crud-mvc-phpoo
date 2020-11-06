@@ -1,0 +1,15 @@
+/* main{
+    min-height: calc(100vh - 176px);
+} */
+
+html{
+    position: relative;
+    min-height: 100vh;
+    padding-bottom: 75px;
+}
+footer{
+    
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}

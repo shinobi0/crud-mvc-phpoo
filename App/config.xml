@@ -1,0 +1,9 @@
+<?xml version ="1.0" encoding="UTF-8"?>
+<config>
+    <host>localhost</host>
+    <user>root</user>
+    <password></password>
+    <dbname>entreprise</dbname>
+    <table>employes</table>
+</config>
+<!-- notre paramétrage est rédigé ici pour la configuaration de notre page -->
